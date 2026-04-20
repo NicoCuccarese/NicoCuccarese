@@ -7,6 +7,3 @@
   - SCRAPS — NLP-based document retrieval system
   - Sonic Twin — music classification model
   - A Global Graphic Trends Analysis using UN data
-  - 
-
-Coffee, music, dogs
