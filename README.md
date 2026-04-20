@@ -6,6 +6,7 @@
 - 🚀 Projects:
   - SCRAPS — NLP-based document retrieval system
   - Sonic Twin — music classification model
-  - Instatube — full-stack web app
+  - A Global Graphic Trends Analysis using UN data
+  - 
 
 Coffee, music, dogs
